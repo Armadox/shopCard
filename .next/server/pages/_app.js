@@ -25,7 +25,7 @@ function App({ Component , pageProps  }) {
         children: [
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
-                    src: "/gm_background.png",
+                    src: "/shopCard/gm_background.png",
                     alt: "Background Image",
                     height: 5000,
                     width: 5000,
