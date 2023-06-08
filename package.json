@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://armadox.github.io/shopScreen",
+  "homepage": "https://armadox.github.io/shopCard",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
