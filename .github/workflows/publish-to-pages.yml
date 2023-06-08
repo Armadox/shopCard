@@ -78,8 +78,8 @@ jobs:
   # Deployment job
   deploy:
     environment:
-      name: github-pages
-      url: https://armadox.github.io/shopScreen/
+      name: gh-pages
+      url: https://armadox.github.io/shopCard/
     runs-on: ubuntu-latest
     needs: build
     steps:

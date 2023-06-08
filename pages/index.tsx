@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Carousel from '@/modules/productCard'
+import Carousel from '../modules/productCard';
 import { useEffect, useState } from 'react';
 
 export default function Home() {
