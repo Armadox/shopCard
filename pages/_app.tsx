@@ -8,7 +8,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <div>
       <div>
-        <img src="/gm_background.png" alt="Background Image" height={5000} width={5000} style={{objectFit:"cover"}} className="background-image"/>
+        <img src="/shopCard/gm_background.png" alt="Background Image" height={5000} width={5000} style={{objectFit:"cover"}} className="background-image"/>
       </div>
       <Component {...pageProps} />
     </div>

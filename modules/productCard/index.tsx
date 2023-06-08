@@ -90,7 +90,7 @@ const Carousel = (props: Props) => {
             <h1 className="title" style={{background: item.titleBackgroundColor}}>{item.productName}</h1>
           </div>
           
-          <img src={`/${item.productPicture}`} alt="" width={500} height={500} className='productImages'/>
+          <img src={`/shopCard/${item.productPicture}`} alt="" width={500} height={500} className='productImages'/>
           <div className='variants'>
             {item.variants != null ? (
               item.variants.map((variant: any, variantIndex: number) => (
